@@ -16,6 +16,15 @@
 
 5: 启动项目，无论是SpringMVC还是SpringBoot项目，都是启动服务提供者，再启动服务者消费者即可
 
+###### 如何使用idea打开我，IDEA工作空间多开项目教程，多个项目放在一起，以下是教程：
+
+IDEA工作空间多开项目教程，多个项目放在一起 - W_serendipity - 博客园
+https://www.cnblogs.com/w-serendipity/p/10083030.html
+
+IDEA的设置图片的位置：
+
+SpringMVC-SpringBoot-Dubbo-Demo-By-LC/dubbo搭建图库与所需开源项目库/图片库/idea-open-this-setup-pic.jpg
+
 此搭建包含了
 
 1：使用的注册中心为:zookeeper
